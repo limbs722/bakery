@@ -1,0 +1,8 @@
+__pycache__
+.venv
+study
+.history
+.vscode
+.DS_Store
+**/*/migrations/versions/*
+resources/
