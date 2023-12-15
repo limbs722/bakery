@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, DateTime
 from sqlalchemy.ext.declarative import declarative_base, declared_attr
-from croft.lib.orm.camel import Camel
+from bakery.lib.orm.camel import Camel
 from datetime import datetime
 
 

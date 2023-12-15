@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Load, joinedload
-from croft.lib.orm.query import op
+from bakery.lib.orm.query import op
 
 def exactKey( mapclass, key ):
 

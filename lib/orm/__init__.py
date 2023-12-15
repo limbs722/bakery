@@ -1,1 +1,1 @@
-from croft.lib.orm.meta import metabase
+from bakery.lib.orm.meta import metabase

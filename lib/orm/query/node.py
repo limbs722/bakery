@@ -1,5 +1,5 @@
-from croft.lib.orm.query import op
-from croft.lib.orm.query.base import exactKey
+from bakery.lib.orm.query import op
+from bakery.lib.orm.query.base import exactKey
 
 
 def tandem( node, leaf, join = op.JOIN ):

@@ -1,4 +1,4 @@
-from croft.lib.motif import Singleton, Const
+from bakery.lib.motif import Singleton, Const
 import re
 
 class Camel( Const, Singleton ):

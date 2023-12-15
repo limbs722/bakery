@@ -1,4 +1,4 @@
-from croft.lib.orm.query import op
+from bakery.lib.orm.query import op
 
 
 def nodal( leaf, node ):

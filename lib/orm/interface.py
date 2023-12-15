@@ -1,5 +1,5 @@
 from sqlalchemy.orm import joinedload
-from croft.lib.orm.query import util
+from bakery.lib.orm.query import util
 
 def count( session, mapclass ):
 
