@@ -1,7 +1,0 @@
-FILTER = 'filter'
-JOIN = 'join'
-OPTIONS = 'options'
-ORDER_BY = 'order_by'
-OUTERJOIN = 'outerjoin'
-SELECT_FROM = 'select_from'
-WITH_HINT = 'with_hint'
